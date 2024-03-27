@@ -42,3 +42,4 @@ notification.mp3
 *.png
 *.jpg
 
+/cache
