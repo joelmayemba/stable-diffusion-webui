@@ -41,5 +41,3 @@ notification.mp3
 /test/test_outputs
 *.png
 *.jpg
-
-/cache
