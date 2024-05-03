@@ -1,0 +1,47 @@
+text,korean text, romaji text, engrish text, english text, text focus, ranguage,blurry,blurry background,yaoi,speech bubble, patreon username, twitter username, character name,artist name,gumroad username,signature,watermark,deviantart username,signature,web address,photo \(medium\),depth of field,mosaic censoring,censored,blur censor, page number,asian,devianart logo,copyright name,subtitled,
+
+((3girls, huge breasts, gigantic breasts)), milf, hourglass figure, mature female, looking at viewer, open mouth, tongue out, tongue, orgasm, (nude, rolling eyes:1.2), smile, BREAK <lora:PovGroupSex_v10:0.9> <lora:group sex missionary_v1.4-9_lbw:0.6> missionary,sex,lying,spread legs,pov,1boy,penis,pussy,multiple girls, (((3girls, huge breasts, gigantic breasts, pussy, group sex, cowgirl position, riding, straddling, penis, sex))) BREAK <lora:Okudera_Anna_UG_v1:0.8> 0kudera_Anna, short hair, brown hair, brown eyes, glasses, semi-rimless eyewear, under-rim eyewear, lips, huge breasts BREAK cowgirl position, penis, vagina, pussy, straddling, riding, cum, creampie, overflow, female orgasm, moaning, saliva, <lora:Morisaki_Megumi_UG_v1:0.8> MorisakiMegum1, ((tan skin)), red hair, ponytail, sidelocks, bangs, brown eyes, eyebrows visible through hair, lips, huge breasts BREAK <lora:Suzumoto_Mako_UG_v1:0.8> SuzumotoMak0, blonde hair, bangs, long hair, sidelocks, pink eyes, eyebrows visible through hair, collarbone, heart necklace
+
+
+5girls, nude, completely nude, huge breasts, nipples, breast press, looking at viewer, smirk, smile, blush, BREAK 1girl, <lora:anis-nikke-richy-v1_pdxl:0.8> anisrnd, ahoge, short hair, brown hair BREAK 1girl, <lora:guilty-nikke-richy-v1_pdxl:0.8> guilty, very long hair, brown hair, green hair, colored inner hair, multicolored hair, hair between eyes, purple eyes BREAK 
+1girl, <lora:soda-nikke-richy-v1_pdxl:0.8> nikkesoda, purple eyes, long hair, green hair, bangs, double bun, antenna hair, maid headdress, hairclip, detached collar, green ascot BREAK 
+1girl, <lora:nihilister-nikke-richy-v1_pdxl:0.8> nihilister, red hair, red eyes, ahoge, long hair 
+BREAK 1girl, <lora:elegg-nikke-richy-v1_pdxl:0.8> elegg, short hair, bangs, hair intakes, multicolored hair, hair over eyes, purple eyes BREAK
+
+
+10 images × 10 repeats × 20 epochs ÷ 2 batch size = 1000 steps
+
+20 images × 10 repeats × 10 epochs ÷ 2 batch size = 1000 steps
+
+100 images × 3 repeats × 10 epochs ÷ 2 batch size = 1500 steps
+
+400 images × 1 repeat × 10 epochs ÷ 2 batch size = 2000 steps
+
+1000 images × 1 repeat × 10 epochs ÷ 3 batch size = 3300 steps
+
+
+1girl,solo,full body,yoga pose,pose1,beginner pose,marjariasana,cat pose,kneeling,arched back,from side,from behind,profile,hanging breasts,on ground,ass,prostration,doggystyle,all fours
+
+1girl,solo,full body,yoga pose,pose2,intermediate pose,bharmanasana,table pose,kneeling,from side,from behind, profile,hanging breasts,on ground,ass,prostration,doggystyle,all fours
+
+1girl,solo,full body,yoga pose,pose3,advanced pose,bitilasana,cat cow pose,kneeling,from side,from behind, profile, hanging breasts,on ground,ass,prostration,doggystyle,all fours
+
+1girl,solo,full body,yoga pose,pose4,expert pose,uttana shishosana,extended puppy pose,kneeling,from side,from behind,profile,hanging breasts,breast press,stretching,prostration,on ground,ass,doggystyle,all fours
+
+biae,beginner intermediate advanced expert,meme,yoga pose,beginner pose,advanced pose,intermediate pose,expert pose,4girls,pose1,beginner pose,marjariasana,cat pose,pose2,advanced pose,bharmanasana,table pose,pose3,intermediate pose,bitilasana,cat cow pose,pose4,expert pose,uttana shishosana,extended puppy pose,4koma,all fours,multiple girls,multiple views, multiple 4koma,full body,kneeling,from side,from behind, profile,hanging breasts,breast press,stretching,prostration,on ground,ass,doggystyle,all fours, beginner intermediate advanced expert (meme)
+
+
+
+
+
+-Beginner_Cat Pose_Marjariasana
+
+solo, white background, full body, simple background, nikke builder, default position, 1girl,
+
+1girl, solo, white background, simple background, from behind, full body, facing away, back, nikke builder, transparent background, aiming position, looking away,
+
+1girl, weapon, gun, solo, holding, white background, holding weapon, holding gun, simple background, full body, nikke builder, cover position,
+
+solo, white background, full body, simple background, nikke builder, default position, 1girl,
+
+girl,solo,solo focus,assault rifle,holding,holding assault rifle,full body,cover position,kneeling,squatting,(((white background))),looking at the viewer,8k,masterpiece,absurdes,highly detailed,highres,high quality,best quality,shiny,shiny skin,shiny hair,brown skin,brown-skinned female,orange eyes,large breasts,sidelocks,long hair,blunt bangs,ponytail,white hair,black ribbon hair tie,cleavage,sleeveless,white shirt,unbuttoned shirt,black bra peek,open shirt,suspenders,black suspenders,pants,black pants,large suit pants in black and white pinstripe,black high,high heels,black footwear
