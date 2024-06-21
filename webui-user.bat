@@ -7,4 +7,3 @@ set COMMANDLINE_ARGS = --xformers --medvram --precision full --no-half --skip-to
 @REM set COMMANDLINE_ARGS = --xformers
 
 call webui.bat
-ù
