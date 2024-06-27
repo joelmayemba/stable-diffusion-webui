@@ -1,5 +1,3 @@
-text,korean text, romaji text, engrish text, english text, text focus, ranguage,blurry,blurry background,yaoi,speech bubble, patreon username, twitter username, character name,artist name,gumroad username,signature,watermark,deviantart username,signature,web address,photo \(medium\),depth of field,mosaic censoring,censored,blur censor, page number,asian,devianart logo,copyright name,subtitled,out-of-frame censoring,convenient censoring, mosaic censoring,censored,bad anatomy, head out of frame, out of frame, virtual youtuber,sound effects,pixiv id,motion lines,bar censor,speech bubble,motion blur,voice actor, av idol,artist logo,comic,genderswap \(mtf\), genderswap, thighs, legs, stomach, back, bangs, virtual youtuber, alternate breast size, official alternate costume, alternate costume, what, collarbone, shiny, traditional media, fingernails, feet, toes, soles, borrowed character, official alternate hairstyle, meme attire, casual, parody, toenails, alternate hairstyle,2boys,3boys,4boys,multiple boys,faceless male,topless male,male pubic hair,clothed female nude male,boy on top, multiple girls,demon girl,2girls,3girls,4girls,male focus, running,, meme, style parody, cosplay, closed mouth, indoors, looking at viewer, flat color, dress, anime coloring, standing, solo, cleavage, red eyes, cyborg, , night, sky, outdoors, building, pilot suit, upper body, science fiction, city, window, fighting stance, nose, smile, parted lips, fake screenshot, lips,simple background, full body, teeth, open mouth, clenched hand, eyeshadow, makeup, earrings
-
 text,korean text, romaji text, engrish text, english text, text focus, ranguage,blurry,blurry background,yaoi,speech bubble, patreon username, twitter username, character name,artist name,gumroad username,signature,watermark,deviantart username,signature,web address,photo \(medium\),depth of field,mosaic censoring,censored,blur censor, page number,asian,devianart logo,copyright name,subtitled,out-of-frame censoring,convenient censoring, mosaic censoring,censored,bad anatomy, head out of frame, out of frame, virtual youtuber,sound effects,pixiv id,motion lines,bar censor,speech bubble,motion blur,voice actor, av idol,artist logo,comic,genderswap \(mtf\), genderswap,
 
 breasts, wings, horns, tail, jewelry, weapon, animal ears, legwear, gloves, torn clothes, open clothes, swimsuit, clothes lift, clothes pull, clothing cutout, hat, underwear, cover, tongue,
@@ -26,37 +24,3 @@ BREAK 1girl, <lora:elegg-nikke-richy-v1_pdxl:0.8> elegg, short hair, bangs, hair
 100 images × 3 repeats × 10 epochs ÷ 2 batch size = 1500 steps
 400 images × 1 repeat × 10 epochs ÷ 2 batch size = 2000 steps
 1000 images × 1 repeat × 10 epochs ÷ 3 batch size = 3300 steps
-
-
-1girl,solo,full body,yoga pose,pose1,beginner pose,marjariasana,cat pose,kneeling,arched back,from side,from behind,profile,hanging breasts,on ground,ass,prostration,doggystyle,all fours
-
-1girl,solo,full body,yoga pose,pose2,intermediate pose,bharmanasana,table pose,kneeling,from side,from behind, profile,hanging breasts,on ground,ass,prostration,doggystyle,all fours
-
-1girl,solo,full body,yoga pose,pose3,advanced pose,bitilasana,cat cow pose,kneeling,from side,from behind, profile, hanging breasts,on ground,ass,prostration,doggystyle,all fours
-
-1girl,solo,full body,yoga pose,pose4,expert pose,uttana shishosana,extended puppy pose,kneeling,from side,from behind,profile,hanging breasts,breast press,stretching,prostration,on ground,ass,doggystyle,all fours
-
-biae,beginner intermediate advanced expert,meme,yoga pose,beginner pose,advanced pose,intermediate pose,expert pose,4girls,pose1,beginner pose,marjariasana,cat pose,pose2,advanced pose,bharmanasana,table pose,pose3,intermediate pose,bitilasana,cat cow pose,pose4,expert pose,uttana shishosana,extended puppy pose,4koma,all fours,multiple girls,multiple views, multiple 4koma,full body,kneeling,from side,from behind, profile,hanging breasts,breast press,stretching,prostration,on ground,ass,doggystyle,all fours, beginner intermediate advanced expert (meme)
-
-
-
-
-
--Beginner_Cat Pose_Marjariasana
-
-solo, white background, full body, simple background, nikke builder, default position, 1girl,
-
-1girl, solo, white background, simple background, from behind, full body, facing away, back, nikke builder, transparent background, aiming position, looking away,
-
-1girl, weapon, gun, solo, holding, white background, holding weapon, holding gun, simple background, full body, nikke builder, cover position,
-
-solo, white background, full body, simple background, nikke builder, default position, 1girl,
-
-girl,solo,solo focus,assault rifle,holding,holding assault rifle,full body,cover position,kneeling,squatting,(((white background))),looking at the viewer,8k,masterpiece,absurdes,highly detailed,highres,high quality,best quality,shiny,shiny skin,shiny hair,brown skin,brown-skinned female,orange eyes,large breasts,sidelocks,long hair,blunt bangs,ponytail,white hair,black ribbon hair tie,cleavage,sleeveless,white shirt,unbuttoned shirt,black bra peek,open shirt,suspenders,black suspenders,pants,black pants,large suit pants in black and white pinstripe,black high,high heels,black footwear
-
-
-goddess of victory\: nikke\,noise \(nikke\),noise \(classic_diva\) (nikke\),1girl,dark skin, dark-skinned female, solo,large breasts, blue eyes,multicolored hair
-
-red eyes,white hair,dark elf,red gam,black boots,black panties,elbow gloves,gold bracelet,red waist cape,black halterneck,red eyes,red dress,black thighhighs,
-
-brown eyes,silver hair,elf,gem,boots,panties,gloves,bracelet,waist cape,halterneck,pink eyes,dress,thighhighs,
