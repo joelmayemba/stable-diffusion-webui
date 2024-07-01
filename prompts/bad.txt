@@ -1,6 +1,6 @@
-text,korean text, romaji text, engrish text, english text, text focus, ranguage,blurry,blurry background,yaoi,speech bubble, patreon username, twitter username, character name,artist name,gumroad username,signature,watermark,deviantart username,signature,web address,photo \(medium\),depth of field,mosaic censoring,censored,blur censor, page number,asian,devianart logo,copyright name,subtitled,out-of-frame censoring,convenient censoring, mosaic censoring,censored,bad anatomy, head out of frame, out of frame, virtual youtuber,sound effects,pixiv id,motion lines,bar censor,speech bubble,motion blur,voice actor, av idol,artist logo,comic,genderswap \(mtf\), genderswap,
+text,korean text, romaji text, engrish text, english text, text focus, ranguage,blurry,blurry background,yaoi,speech bubble, patreon username, twitter username, character name,artist name,gumroad username,signature,watermark,deviantart username,signature,web address,photo \(medium\),depth of field,mosaic censoring,censored,blur censor, page number,asian,devianart logo,copyright name,subtitled,out-of-frame censoring,convenient censoring, mosaic censoring,censored,bad anatomy, head out of frame, out of frame, virtual youtuber,sound effects,pixiv id,motion lines,bar censor,speech bubble,motion blur,voice actor, av idol,artist logo,comic,genderswap \(mtf\), genderswap
 
-breasts, wings, horns, tail, jewelry, weapon, animal ears, legwear, gloves, torn clothes, open clothes, swimsuit, clothes lift, clothes pull, clothing cutout, hat, underwear, cover, tongue,
+breasts, wings, horns, tail, jewelry, weapon, animal ears, legwear, gloves, torn clothes, open clothes, swimsuit, clothes lift, clothes pull, clothing cutout, hat, underwear, cover, tongue
 
 thighs, legs, stomach, back, bangs, virtual youtuber, alternate breast size, official alternate costume, alternate costume, what, collarbone, shiny, traditional media, fingernails, feet, toes, soles, borrowed character, official alternate hairstyle, meme attire, casual, parody, toenails, alternate hairstyle
 
@@ -9,14 +9,6 @@ thighs, legs, stomach, back, bangs, virtual youtuber, alternate breast size, off
 1boy,2boys,3boys,4boys, multiple boys, faceless male, topless male, male pubic hair, clothed female nude male, boy on top, multiple girls,2girls,3girls,4girls,male focus,1boy,penis,testicles,penis, ugly man, erection, fat man, fat, testicles, foreskin, fellatio,cum
 
 blonde hair,red hair,blue hair,black hair,brown hair,short hair,long hair,medium hair,red eyes,purple eyes,black eyes,gray eyes,green eyes, yellow eyes,orange eyes,brown eyes
-
-((3girls, huge breasts, gigantic breasts)), milf, hourglass figure, mature female, looking at viewer, open mouth, tongue out, tongue, orgasm, (nude, rolling eyes:1.2), smile, BREAK <lora:PovGroupSex_v10:0.9> <lora:group sex missionary_v1.4-9_lbw:0.6> missionary,sex,lying,spread legs,pov,1boy,penis,pussy,multiple girls, (((3girls, huge breasts, gigantic breasts, pussy, group sex, cowgirl position, riding, straddling, penis, sex))) BREAK <lora:Okudera_Anna_UG_v1:0.8> 0kudera_Anna, short hair, brown hair, brown eyes, glasses, semi-rimless eyewear, under-rim eyewear, lips, huge breasts BREAK cowgirl position, penis, vagina, pussy, straddling, riding, cum, creampie, overflow, female orgasm, moaning, saliva, <lora:Morisaki_Megumi_UG_v1:0.8> MorisakiMegum1, ((tan skin)), red hair, ponytail, sidelocks, bangs, brown eyes, eyebrows visible through hair, lips, huge breasts BREAK <lora:Suzumoto_Mako_UG_v1:0.8> SuzumotoMak0, blonde hair, bangs, long hair, sidelocks, pink eyes, eyebrows visible through hair, collarbone, heart necklace
-
-
-5girls, nude, completely nude, huge breasts, nipples, breast press, looking at viewer, smirk, smile, blush, BREAK 1girl, <lora:anis-nikke-richy-v1_pdxl:0.8> anisrnd, ahoge, short hair, brown hair BREAK 1girl, <lora:guilty-nikke-richy-v1_pdxl:0.8> guilty, very long hair, brown hair, green hair, colored inner hair, multicolored hair, hair between eyes, purple eyes BREAK 
-1girl, <lora:soda-nikke-richy-v1_pdxl:0.8> nikkesoda, purple eyes, long hair, green hair, bangs, double bun, antenna hair, maid headdress, hairclip, detached collar, green ascot BREAK 
-1girl, <lora:nihilister-nikke-richy-v1_pdxl:0.8> nihilister, red hair, red eyes, ahoge, long hair 
-BREAK 1girl, <lora:elegg-nikke-richy-v1_pdxl:0.8> elegg, short hair, bangs, hair intakes, multicolored hair, hair over eyes, purple eyes BREAK
 
 
 10 images × 10 repeats × 20 epochs ÷ 2 batch size = 1000 steps
