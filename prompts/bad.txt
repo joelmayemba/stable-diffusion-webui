@@ -10,7 +10,7 @@ thighs, legs, stomach, back, bangs, virtual youtuber, alternate breast size, off
 
 blonde hair,red hair,blue hair,black hair,brown hair,short hair,long hair,medium hair,red eyes,purple eyes,black eyes,gray eyes,green eyes, yellow eyes,orange eyes,brown eyes
 
-
+'
 10 images × 10 repeats × 20 epochs ÷ 2 batch size = 1000 steps
 20 images × 10 repeats × 10 epochs ÷ 2 batch size = 1000 steps
 100 images × 3 repeats × 10 epochs ÷ 2 batch size = 1500 steps
