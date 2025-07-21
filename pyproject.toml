@@ -35,4 +35,4 @@ ignore = [
 extend-immutable-calls = ["fastapi.Depends", "fastapi.security.HTTPBasic"]
 
 [tool.pytest.ini_options]
-base_url = "http://127.0.0.1:7860"
+base_url = "http://127.0.0.1:7880"
